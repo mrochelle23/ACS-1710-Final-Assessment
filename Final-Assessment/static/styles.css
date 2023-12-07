@@ -1,0 +1,47 @@
+form {
+	background-color: orange;
+}
+
+.Important {
+	color: red;
+}
+
+.Normal {
+	color:blue
+}
+
+.Unimportant {
+	color: green;
+}
+
+.Very {
+	color: purple;
+}
+
+body {
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-size: 18px;
+}
+
+.todo {
+	padding: 20px;
+	margin: 10px;
+	background-color: #eee;
+}
+
+button, input[type=submit] {
+	padding: 0.5rem;
+	background-color: red;
+	border-radius: 0.5rem;
+	border: none;
+	color: black;
+	font-size: 1rem;
+}
+
+input[type=text] {
+	padding: 0.5rem;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 0.5rem;
+	font-size: 1rem;
+}

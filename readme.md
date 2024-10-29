@@ -1,6 +1,3 @@
-Here's an updated `README.md` for your Flask TODO application, providing clear instructions and descriptions of its structure and features:
-
-```markdown
 # Flask TODO Application
 
 This is a simple Flask web application for managing a TODO list. Users can add, delete, and prioritize tasks, with all data stored in a MongoDB database.
